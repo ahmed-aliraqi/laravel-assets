@@ -1,0 +1,19 @@
+{
+    "name": "ahmed-aliraqi/laravel-assets",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ahmed-aliraqi",
+            "email": "aliraqi.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aliraqi\\Assets\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+}
