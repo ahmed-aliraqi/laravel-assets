@@ -1,5 +1,4 @@
 # Installition
----
 
 via `composer`
 ```
@@ -51,7 +50,7 @@ return [
 ```
 
 ## usage in blade files 
----
+
 ```
 {{ scripts('jquery') }} 
 ```
