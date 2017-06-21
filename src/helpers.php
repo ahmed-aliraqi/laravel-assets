@@ -1,5 +1,10 @@
 <?php
 
+/*
+ * Add the scripts tags.
+ *
+ *@param string $key
+ */
 function scripts($key)
 {
     $path = config('assets.scripts.'.$key);
