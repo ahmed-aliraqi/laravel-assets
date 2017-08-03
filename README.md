@@ -1,4 +1,5 @@
-# Installition
+Installition
+===========
 
 via `composer`
 ```
