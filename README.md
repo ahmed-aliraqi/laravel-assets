@@ -18,6 +18,7 @@ php artisan vendor:publish --tag=laravel-asset,
 `config/assets.php` file :
 ```
 <?php
+
 return [
 
     'scripts' => [
